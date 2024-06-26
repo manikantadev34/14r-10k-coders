@@ -1,0 +1,37 @@
+vscode installer
+1.helmet line
+2.live preview
+2.material icon theme
+4.prettier-code formatter
+5.emmer addremvative
+*doc type means current version of the doc is  html file.
+*lang="en is means english contant"
+cdn-content delievery network limks(or)image form the interent.
+alt="" is used for when the image is not displayed then it show the image name.when the img is displayed the alt will hiding.
+
+
+
+[<a href=""download="">download me.
+*download content should be available in local file and outout should be ive server 
+
+
+
+
+<iframe src=""></frame>it will be used for the outside website access]it disoplay the orther webpages in our webpage.
+2.it also used for the showing the google maps.
+3.it also show the youtube videos.
+
+
+target="_blank"it will be used for the website for opening in another tab.
+<iframe namer="madhu"></iframe>
+< a target="screen"href=""><pawankalyan>
+
+
+
+
+Elemnts are classifield based on display property
+1.inline-level:-it only untills the required space
+a,img
+2.block line:-the elements occupies the enter space it used or not used it will be occupied enter space it stsrts the new line
+p,h1
+3.inline-block
